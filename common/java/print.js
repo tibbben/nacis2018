@@ -1,5 +1,6 @@
 if (( /print-pdf/gi ).test( window.location.search )) {
-	var head  = document.getElementsByTagName('head')[0];
+	alert( window.location);
+    var head  = document.getElementsByTagName('head')[0];
     var link  = document.createElement('link');
     link.rel  = 'stylesheet';
     link.type = 'text/css';
