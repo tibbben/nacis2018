@@ -2,6 +2,8 @@
 
 This repository contains a presentation about the experience with data curation for the Pulley Ridge Project 2012 - 2018 undertaken as a collaboration between the Center for Computational Science and the Library at the University of Miami.
 
+For the actual presentation, plesae see the [hosted version](https://tibbben.github.io/2018_PulleyRidgeDataCuration).
+
 ---
 
 ### License
