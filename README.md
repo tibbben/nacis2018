@@ -27,9 +27,9 @@ Please see the full license terms here: https://creativecommons.org/licenses/by/
 
 Fellow Contributors:
 
-Chris Mader - CCS
-Julio Perez - CCS
-Shreeharsha Venkatapuram - CSCS
-Chance Scott - CCS
-Kimberley Pugilese - NOAA Federal
+Chris Mader - CCS  
+Julio Perez - CCS  
+Shreeharsha Venkatapuram - CCS  
+Chance Scott - CCS  
+Kimberley Pugilese - NOAA Federal  
 Jessica Morgan - NOAA Affiliate
